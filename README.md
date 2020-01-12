@@ -20,6 +20,8 @@ TBD
 
 #### Android
 
+TBD
+
 ## A2 Practical Assignment list
 
 #### Algorithm
@@ -35,6 +37,8 @@ TBD
 TBD
 
 #### Android
+
+TBD
 
 # Credits
 
