@@ -5,11 +5,13 @@
 #### Algorithm
 
 | Date of Experiment | Topic |
+| :------: | :------: |
 | 09/01/2020 | Linear Search, Binary Search (recursion), Bubble Sort, GCD (recursion). |
 
 #### DBMS
 
 | Date of Experiment | Topic |
+| :------: | :------: |
 | 07/01/2020 | TBD |
 
 #### Software Engineering
